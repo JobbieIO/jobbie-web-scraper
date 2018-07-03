@@ -1,0 +1,17 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "************************************ 1. cd into: **company_finder** 2. install dependencies: **npm install** 3. run command: **node index.js** ************************************ #### ```--> collected companies will show in console <--``` ************************************ 4. quit program: **(control + c) * 2** ************************************",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "nightmare": "^3.0.1",
+    "nodemon": "^1.17.5",
+    "vo": "^4.0.2"
+  }
+}
